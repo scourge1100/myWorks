@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OmokProgram {
+public class OmokProgram1 {
 
 	public static void main(String[] args) {
 		
